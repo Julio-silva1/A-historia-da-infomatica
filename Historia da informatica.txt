@@ -1,0 +1,27 @@
+# O criador da informatica
+
+### A informática teve seu início na história como uma precursora da revolução tecnológica,
+pois ela surgiu de uma dificuldade ou necessidade dentro da,
+quando um Francês denominado de Blaise Pascal,
+desenvolve a primeira máquina de calcular, a primeira calculadora,
+esta por sua vez foi desenvolvida para realizar cálculos de algoritmos.
+Isso tudo ocorreu na década de 1642 com a invenção da primeira calculadora de algoritmos,
+neste momento se dá o, ponta pé inicial para o desenvolvimento da informática no mundo.
+
+# O primerio computador da historia
+
+O primeiro computador surgiu em 1931 pela primeira vez no mundo uma máquina que realiza
+cálculos de forma automatizada.O computador foi desenvolvido por Vannevar Bush,
+através de uma pesquisa feita dentro de um centro de ciência e tecnologia,
+nos Estados Unidos.
+
+Este primeiro computador realizava funções muito restritas,
+mas estava muito além do seu tempo. Seu sistema era analógico,
+como por exemplo a função de uma calculadora, no entanto ele permitia a inclusão de 
+números, para que fossem executadas sequências numéricas infinitas.
+
+No entanto ele era propenso a muitos erros, neste momento começa a ser utilizado 
+o Sistema Binário de George Boole. O sistema binário de Boole é uma lógica,
+onde o computador conseguia fazer a leitura de número de 0 a 1,
+números fora desta sequência eram descartados pelo computador.O sistema binário de Boole
+tornou possível o desenvolvimento de microprocessadores.
